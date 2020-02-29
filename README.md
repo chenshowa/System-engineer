@@ -3,7 +3,7 @@
 
 1. form/upload/download file web file
 
-            The project code implement
+            The project code implement a simple upload/download form web application
 
 2. server-client socket
 
